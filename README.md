@@ -7,4 +7,9 @@ Punjabi language python code
 
 - install given library
 
+```shell
+pip install jiwer
+pip install openpyxl
+```
+
 --- ---
